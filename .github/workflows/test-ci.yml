@@ -18,3 +18,5 @@ jobs:
         python-version: "3.8"
     - name: Display Python version
       run: python -c "import sys; print(sys.version)"
+    - name: 아무거나 입력하시오
+      run: echo "아무거나 입력해 깃헙 액션의 힘을 확인합니다."
