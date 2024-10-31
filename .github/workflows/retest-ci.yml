@@ -18,5 +18,6 @@ jobs:
         python-version: "3.8"
     - name: Display Python version
       run: python -c "import sys; print(sys.version)"
+      
     - name: 이름입니다
-      run: echo "D멜에레멩ㄻㄴㅇㄹ"
+      run: echo "왜안되지"
